@@ -18,7 +18,7 @@
 
   <p align="center">
     <br />
-    <a href="https://fish-spot.vercel.app/">VISIT PAGE</a>
+    <a href="http://demo.rezerwujstanowisko.pl/">VISIT PAGE</a>
   </p>
 </div>
 
